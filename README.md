@@ -5,5 +5,5 @@ Coding the Machine Learning Tutorial for Learning to Learn
   -  补充资料：[基础代码解析](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_trial_1.ipynb)
   -  补充资料：[Keras构建CNN](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_Keras_CNN.ipynb)
 - 第二期：[GAN完整理论推导与实现](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/Keras_GAN.ipynb)--&--[教程文章](https://www.jiqizhixin.com/articles/2017-10-1-1)
-
+  -  补充资料：[原版GAN的TensorFlow实现](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_GAN.ipynb)
   
