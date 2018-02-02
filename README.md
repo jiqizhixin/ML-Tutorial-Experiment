@@ -8,3 +8,4 @@ Coding the Machine Learning Tutorial for Learning to Learn
 - 第二期：[GAN完整理论推导与实现](https://www.jiqizhixin.com/articles/2017-10-1-1)--&--[文章代码](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/Keras_GAN.ipynb)
   -  补充资料：[原版GAN的TensorFlow实现](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_GAN.ipynb)
 - 第三期：[CapsNet结构解析与实现](https://www.jiqizhixin.com/articles/2017-11-05)--&--[文章代码](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_orginal_CapsNet.ipynb)
+  -  补充资料：[解读官方实现的核心代码](https://www.jiqizhixin.com/articles/capsule-implement-sara-sabour-Feb02)
