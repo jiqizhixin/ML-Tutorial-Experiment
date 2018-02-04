@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Source Code：
+# Source Code：https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/Synced.py
 import tensorflow as tf
 import numpy as np
 import tensorflow.contrib.slim as slim
