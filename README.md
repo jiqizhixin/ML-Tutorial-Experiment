@@ -9,5 +9,5 @@ Coding the Machine Learning Tutorial for Learning to Learn
   -  补充资料：[原版GAN的TensorFlow实现](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_GAN.ipynb)
 - 第三期：[CapsNet结构解析与实现](https://www.jiqizhixin.com/articles/2017-11-05)--&--[文章代码](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_orginal_CapsNet.ipynb)
   -  补充资料：[解读官方实现的核心代码](https://www.jiqizhixin.com/articles/capsule-implement-sara-sabour-Feb02)
-- 第四期：[RNN与CNN的序列建模](https://www.jiqizhixin.com/articles/2018-04-12-3)--&--[LSTM语言建模](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/LSTM_PTB.ipynb)--&--[TCN官方实现](https://github.com/locuslab/TCN)--&--TCN语言建模（Colaboratory）
+- 第四期：[RNN与CNN的序列建模](https://www.jiqizhixin.com/articles/2018-04-12-3)--&--[LSTM语言建模](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/LSTM_PTB.ipynb)--&--[TCN官方实现](https://github.com/locuslab/TCN)--&--[TCN语言建模（Colaboratory）](https://drive.google.com/open?id=1GAXC0j9qzLyQu8G9_P_eHi-TtYm7uhXF)
 
