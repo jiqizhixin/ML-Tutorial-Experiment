@@ -5,6 +5,7 @@ Coding the Machine Learning Tutorial for Learning to Learn
   -  补充资料：[基础代码解析](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_trial_1.ipynb)
   -  补充资料：[Keras构建CNN](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_Keras_CNN.ipynb)
   -  补充资料：[TensorFlow构建LeNet-5](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_LeNet5.ipynb)
+  -  补充资料：[从DensNet到CliqueNet，探索卷积神经网络架构](https://www.jiqizhixin.com/articles/2018-05-23-6)
 - 第二期：[GAN完整理论推导与实现](https://www.jiqizhixin.com/articles/2017-10-1-1)--&--[文章代码](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/Keras_GAN.ipynb)
   -  补充资料：[原版GAN的TensorFlow实现](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_GAN.ipynb)
 - 第三期：[CapsNet结构解析与实现](https://www.jiqizhixin.com/articles/2017-11-05)--&--[文章代码](https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_orginal_CapsNet.ipynb)
