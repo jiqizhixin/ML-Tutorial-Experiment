@@ -33,8 +33,12 @@ Coding the Machine Learning Tutorial for Learning to Learn
 * 一般机器学习
     * 入门模型
         * 线性回归
+            * [初学TensorFlow机器学习：如何实现线性回归？](https://www.jiqizhixin.com/articles/2017-05-14-2)
         * Logistic 回归
+            * [从原理到应用：简述Logistics回归算法](https://www.jiqizhixin.com/articles/2018-05-13-3)
+            * [从头开始：用Python实现带随机梯度下降的Logistic回归](https://www.jiqizhixin.com/articles/2017-02-17-5)
     * 朴素贝叶斯
+        * [实践中最广泛应用的分类模型：朴素贝叶斯算法](https://www.jiqizhixin.com/articles/033088)
     * 决策树
     * 支持向量机
     * 聚类方法
