@@ -34,6 +34,8 @@ Coding the Machine Learning Tutorial for Learning to Learn
     * 入门模型
         * 线性回归
             * [初学TensorFlow机器学习：如何实现线性回归？](https://www.jiqizhixin.com/articles/2017-05-14-2)
+            * [Python环境下的8种简单线性回归算法](https://www.jiqizhixin.com/articles/2018-01-01)
+            * [极简Python带你探索分类与回归的奥秘](https://www.jiqizhixin.com/articles/03132)
         * Logistic 回归
             * [从原理到应用：简述Logistics回归算法](https://www.jiqizhixin.com/articles/2018-05-13-3)
             * [从头开始：用Python实现带随机梯度下降的Logistic回归](https://www.jiqizhixin.com/articles/2017-02-17-5)
